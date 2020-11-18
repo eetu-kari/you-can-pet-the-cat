@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/you-can-pet-the-cat/static/css/main.1e32287f.chunk.css",
+    "main.js": "/you-can-pet-the-cat/static/js/main.cc030ab8.chunk.js",
+    "main.js.map": "/you-can-pet-the-cat/static/js/main.cc030ab8.chunk.js.map",
+    "runtime-main.js": "/you-can-pet-the-cat/static/js/runtime-main.c647ddae.js",
+    "runtime-main.js.map": "/you-can-pet-the-cat/static/js/runtime-main.c647ddae.js.map",
+    "static/js/2.a085a3ea.chunk.js": "/you-can-pet-the-cat/static/js/2.a085a3ea.chunk.js",
+    "static/js/2.a085a3ea.chunk.js.map": "/you-can-pet-the-cat/static/js/2.a085a3ea.chunk.js.map",
+    "static/js/3.71840339.chunk.js": "/you-can-pet-the-cat/static/js/3.71840339.chunk.js",
+    "static/js/3.71840339.chunk.js.map": "/you-can-pet-the-cat/static/js/3.71840339.chunk.js.map",
+    "index.html": "/you-can-pet-the-cat/index.html",
+    "static/css/main.1e32287f.chunk.css.map": "/you-can-pet-the-cat/static/css/main.1e32287f.chunk.css.map",
+    "static/js/2.a085a3ea.chunk.js.LICENSE.txt": "/you-can-pet-the-cat/static/js/2.a085a3ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c647ddae.js",
+    "static/js/2.a085a3ea.chunk.js",
+    "static/css/main.1e32287f.chunk.css",
+    "static/js/main.cc030ab8.chunk.js"
+  ]
+}
